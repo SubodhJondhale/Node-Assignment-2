@@ -1,0 +1,4 @@
+const name = process.argv[2];
+console.log(`Hello ${name}`);
+
+//https://docs.google.com/document/d/1kezwWRcCs_lg4LuJw44D0pG_lq2EFJTF/edit#heading=h.30j0zll
